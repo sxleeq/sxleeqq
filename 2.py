@@ -1,5 +1,4 @@
-a = int(input())
-b = int(input())
+a, b = map(int, input().split())
 while a != 0 and b != 0:
     if a > b:
         a=a%b
