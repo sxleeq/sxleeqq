@@ -138,6 +138,8 @@ if n == 5:
     n5()
 if n == 6:
     n6()
+if n == 7:
+    print("doesn't work")
 if n == 8:
     n8()
 if n == 9:
